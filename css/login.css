@@ -1,0 +1,37 @@
+body{
+    background-color: #ecedeb;
+}
+
+.areaLogin{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.ass{
+    width: 100%;
+    position: relative;
+}
+
+.login{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    width: 355px;
+    height: 320px;
+    padding: 35px;
+    border-radius: 10px;
+}
+
+.login form{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+}
+
+.button{
+    margin-left: auto;
+    margin-right: auto;
+}
